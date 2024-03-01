@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Best Seller</name>
+   <tag></tag>
+   <elementGuidId>0fe8fff1-a6b2-4175-8273-32c3870fb31d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='js-nav']/div/div/nav/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>543de0bc-c2cf-445d-8436-5455cbe30e79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://store.kontan.co.id/best-seller</value>
+      <webElementGuid>2ecc01cf-aba1-4833-8962-679b79247152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav__link </value>
+      <webElementGuid>1b4946c7-f444-471d-b40a-db8e6eccedf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Best Seller</value>
+      <webElementGuid>050d62d1-5efa-4abd-8fc5-98285f3ccb31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-nav&quot;)/div[@class=&quot;container clearfix&quot;]/div[@class=&quot;row col-offset-fluid clearfix&quot;]/nav[@class=&quot;nav&quot;]/ul[@class=&quot;nav__wrap&quot;]/li[@class=&quot;nav__item&quot;]/a[@class=&quot;nav__link&quot;]</value>
+      <webElementGuid>1fd003ad-a7f3-4209-86e4-548c37d10e69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='js-nav']/div/div/nav/ul/li[2]/a</value>
+      <webElementGuid>7d493a2e-f115-435a-beb2-3a716389cb89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Best Seller')]</value>
+      <webElementGuid>33b409fb-22e6-448e-a430-f5b5e366de18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://store.kontan.co.id/best-seller')]</value>
+      <webElementGuid>6873c444-f5a9-4d78-9977-b34d0eed66be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[2]/a</value>
+      <webElementGuid>acb4865f-a8aa-4a29-9b61-7bfa66c55dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://store.kontan.co.id/best-seller' and (text() = 'Best Seller' or . = 'Best Seller')]</value>
+      <webElementGuid>6f664e1a-dee3-4538-8c3e-89e169cd5830</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

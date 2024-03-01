@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Konfirmasi Pembayaran_logo__img</name>
+   <tag></tag>
+   <elementGuidId>81cc7242-5eaa-43c3-bbd6-581469897c6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.logo__img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83df1c3b-aec2-4c72-a585-cd2c500d357d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logo__img</value>
+      <webElementGuid>20b5288d-7ec6-4174-b9c0-47329d486cb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js csstransitions&quot;]/body[1]/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;header header--fixed&quot;]/div[@class=&quot;container clearfix&quot;]/div[@class=&quot;row col-offset-fluid clearfix&quot;]/div[@class=&quot;col-xs-5 col-lg-3&quot;]/div[@class=&quot;logo&quot;]/a[@class=&quot;logo__link&quot;]/div[@class=&quot;logo__img&quot;]</value>
+      <webElementGuid>eae01be1-49ca-418a-9f94-126eaa4f1729</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>d4883bbd-6186-467b-92ad-ee02e395ed44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

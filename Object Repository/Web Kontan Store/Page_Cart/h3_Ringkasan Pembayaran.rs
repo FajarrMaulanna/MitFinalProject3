@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Ringkasan Pembayaran</name>
+   <tag></tag>
+   <elementGuidId>a99ca537-eda1-4fa9-95cc-2db45a8c6062</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='begin_checkout']/div[2]/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cart__box.js-sticky-payment > h3.title__head</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>a8f8c56f-e444-4ce0-ad09-551b25a38765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title__head</value>
+      <webElementGuid>07641f24-11de-45d8-a92e-dc9e319746d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ringkasan Pembayaran</value>
+      <webElementGuid>ee24723e-cea2-46f8-9beb-0dbbb32c9719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;begin_checkout&quot;)/div[@class=&quot;col-xs-12 col-sm-4 col-lg-4&quot;]/div[@class=&quot;cart__box js-sticky-payment&quot;]/h3[@class=&quot;title__head&quot;]</value>
+      <webElementGuid>8d6df22b-63f1-4a07-b21b-d78c8cdabe5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='begin_checkout']/div[2]/div/h3</value>
+      <webElementGuid>3edb13f9-b03d-468c-a12f-13884f081cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h3</value>
+      <webElementGuid>126af278-0794-4765-be07-35a8a55d86f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Ringkasan Pembayaran' or . = 'Ringkasan Pembayaran')]</value>
+      <webElementGuid>ba296f0b-7c62-4209-8458-6658300839d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
